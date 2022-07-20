@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K-xodnjs
-- 👀 I’m interested in C# and game development
+- 👀 I’m interested in C# and Java web development
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram search k_xodnjs or tino852@naver.com
